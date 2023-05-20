@@ -67,3 +67,9 @@ body{
     background-color: black;
     color: lightgray;
 }
+
+@media screen and (max-width: 720px){
+    .add-user-section{
+        flex-wrap: wrap;
+    }
+}
